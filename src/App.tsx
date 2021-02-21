@@ -188,7 +188,7 @@ const Swapper = styled.input`
 `;
 const Container = styled.div`
  
-  background-color: #d3d3d3;
+  background-color: #cacaca;
   border: solid 1px;
   padding: 1.5em;
   margin: auto;
